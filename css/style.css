@@ -1,0 +1,112 @@
+
+ 
+  
+  body{
+    
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    justify-content:center;
+    height:90dvh;
+    text-align:center;
+    
+  }
+  
+  
+  
+  h1 {
+    
+    color: #333333;
+    background-color: #ffffff;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+    
+  }
+  
+  
+  form{
+    
+    width:300px;
+    height:430px;
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    justify-content:center;
+    
+  }
+  
+  
+  .file_box {
+    
+    display: none;
+    
+  }
+  
+  
+  .btn_subir {
+    
+    display: flex;
+    align-items:center;
+    justify-content:center;
+    text-align:center;
+    cursor: pointer;
+    background-color: #007bff;
+    color: #bbb;
+    border-radius: 15px;
+    font-family: sans-serif;
+    font-size:5rem;
+    width:300px;
+    min-height:300px;
+    border-bottom:4px solid #444;
+    transition: background 0.2s;
+    background-size: cover;
+    background-position: center;
+    
+  }
+  
+  
+  
+  .btn_subir:active {
+    
+    background-color: #000bdd;
+    border-bottom:1px solid #444;
+    
+  }
+  
+  
+  
+  button, a{
+    
+    min-width:200px;
+    padding:15px 20px;
+    color:#fff;
+    background:#0af;
+    font-weight:900;
+    font-size:1.2rem;
+    border:none;
+    border-bottom:3px solid #000;
+    margin:auto;
+    border-radius:10px;
+    text-decoration:none;
+    
+  }
+  
+  
+  button:active, a:active{
+    
+    border-bottom:0.5px solid #000;
+    
+  }
+  
+  
+  
+  
+  img{
+    
+    margin:20px auto;
+    border-radius:15px;
+    
+  }
+  
+ 
+
