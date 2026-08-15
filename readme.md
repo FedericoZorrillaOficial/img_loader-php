@@ -1,15 +1,12 @@
+<p align="center">
 
- 
-  
-  <p align="center">
-    
-    <a href="https://federicozorrillaoficial.com/" target="_blank">
-      
-      <img src="https://federicozorrillaoficial.com/img/logo.svg" width="180" alt="Federico Zorrilla Logo">
-      
-    </a>
-    
-  </p>
+<a href="https://federicozorrillaoficial.com/" target="_blank">
+
+<img src="https://federicozorrillaoficial.com/img/logo.svg" width="180" alt="Federico Zorrilla Logo">
+
+</a>
+
+</p>
   
   
   

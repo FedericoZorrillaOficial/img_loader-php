@@ -15,7 +15,9 @@
   
   
   
-  $unico = 01; //time();
+  //time para varias imagenes
+  //1 para 1 imagen
+  $unico = 1; //time();
   cargar($unico);
   
   
